@@ -43,5 +43,5 @@ Each tap changes the image and message, helping users understand state managemen
     
     Uses resources for strings and drawable assets.
 
-📸 Screenshots
+
 <img width="373" height="757" alt="Screenshot 2025-07-12 202220" src="https://github.com/user-attachments/assets/02935b3c-382d-47c6-aa97-69e31375813e" />    <img width="381" height="756" alt="Screenshot 2025-07-12 202236" src="https://github.com/user-attachments/assets/42cabe8c-11d6-49bb-ae48-fe7fe0b59a2e" />  <img width="379" height="762" alt="Screenshot 2025-07-12 202303" src="https://github.com/user-attachments/assets/e43c4183-8c2f-4d9c-9ac2-ae1429bae3c5" />    <img width="363" height="763" alt="Screenshot 2025-07-12 202321" src="https://github.com/user-attachments/assets/6d1408f1-be6c-476a-9a75-7bbfa059a439" />
